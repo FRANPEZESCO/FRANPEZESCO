@@ -1,189 +1,222 @@
 ## Hi there 👋
 ##  **FRANPEZESCO/FRANPEZESCO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-# 🧠 BIOTECNOLIFE — Firmware Humano Programado · Tomo 1
+# 🧬 BIOTECNOLIFE — Dr. Ittalo Francisco Pezzotti Escobar
 
 <div align="center">
 
-![Firmware Humano](https://img.shields.io/badge/Firmware%20Humano-Tomo%201-red?style=for-the-badge)
-![Sin Salida](https://img.shields.io/badge/Sin%20Salida-El%20Espejo-black?style=for-the-badge)
-![Arduino](https://img.shields.io/badge/Arduino-Mega%202560-00979D?style=for-the-badge&logo=arduino)
-![Experimentos](https://img.shields.io/badge/100-Experimentos-orange?style=for-the-badge)
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!-- 🔬 BLOQUE 1 — REDES CIENTÍFICAS                            -->
+<!-- ═══════════════════════════════════════════════════════════ -->
 
-**Destrucción del Firmware Humano Programado**
-*El libro que traduce la experiencia humana a código verificable*
+<table>
+<tr><td align="center" style="background:#0a1628; padding:16px; border-radius:10px;">
 
-[📖 Tomo 2 — Con salida →](https://github.com/orgs/PEZESCOBAR)
-&nbsp;·&nbsp;
-[👤 Autor](https://github.com/ittalopezzotti)
-&nbsp;·&nbsp;
-[📺 YouTube](#)
+**🔬 REDES CIENTÍFICAS & ACADÉMICAS**
+
+[![CNR-IEIIT](https://img.shields.io/badge/CNR--IEIIT-Investigador%20Activo-003087?style=for-the-badge&logo=flask&logoColor=white)](https://www.ieiit.cnr.it)
+[![ORCID](https://img.shields.io/badge/ORCID-0000--0000--0000--0000-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org)
+[![ResearchGate](https://img.shields.io/badge/ResearchGate-Perfil-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white)](https://www.researchgate.net)
+[![Scopus](https://img.shields.io/badge/Scopus-Publicaciones-FF6C00?style=for-the-badge&logo=elsevier&logoColor=white)](https://www.scopus.com)
+[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-Citas-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com)
+[![Web of Science](https://img.shields.io/badge/Web%20of%20Science-Indexado-B31B1B?style=for-the-badge&logoColor=white)](https://www.webofscience.com)
+[![CvLAC](https://img.shields.io/badge/CvLAC-Minciencias%20Colombia-009933?style=for-the-badge&logoColor=white)](https://scienti.minciencias.gov.co)
+[![Zenodo](https://img.shields.io/badge/Zenodo-CERN%20DOI-024D85?style=for-the-badge&logo=zenodo&logoColor=white)](https://zenodo.org)
+[![Frontiers](https://img.shields.io/badge/Frontiers%20in%20Sensors-En%20Revisión-F0A500?style=for-the-badge&logoColor=white)](https://www.frontiersin.org)
+[![Academia.edu](https://img.shields.io/badge/Academia.edu-Investigador-41454A?style=for-the-badge&logoColor=white)](https://www.academia.edu)
+
+</td></tr>
+</table>
 
 </div>
 
 ---
 
-## ¿Qué es este proyecto?
+## 🧠 Dr. Ittalo Francisco Pezzotti Escobar
 
-El ser humano es un sistema programado. La mayor parte de ese firmware
-fue instalado antes de los 7 años, sin consentimiento, sin documentación,
-sin posibilidad de revisión.
+<div align="center">
 
-Este repositorio contiene los **100 experimentos del Tomo 1** —
-implementaciones reales en Arduino que traducen condiciones humanas
-a código medible, con LEDs, sensores y datos en tiempo real.
+```
+┌─────────────────────────────────────────────────────────────────┐
+│  Ingeniero Informático · Doctor · Investigador CNR · Escritor    │
+│  Nacido en Medellín, Colombia, 1973 · Vive en Milán desde 2003  │
+│  CNR-IEIIT (Consiglio Nazionale delle Ricerche) · Milán, Italia  │
+│  Especialidad: Biosensores · Sensores de Gas · Sistemas Sensoriales│
+└─────────────────────────────────────────────────────────────────┘
+```
 
-**Tomo 1 = Sin salida.** El espejo sin filtro. El patrón tal como opera.
+</div>
 
-> Para ver las salidas y las resoluciones → **[Tomo 2](https://github.com/orgs/PEZESCOBAR)**
+> *"Soy un sistema programado que decidió leer su propio código fuente.
+> 40 años de agendas, 50 proyectos científicos, 10 libros, 58 sitios web,
+> y la certeza de que la ciencia y la conciencia hablan el mismo lenguaje."*
 
 ---
 
-## 📐 Estructura de cada experimento
+## 📚 BIOTECNOLIFE — Contenido de esta cuenta
 
-```
-EXP-XX.md
-├── ### El experimento
-│     Qué hace el hardware. Qué muestran los LEDs y sensores.
-│
-├── ### Cómo funciona el código, explicado sin tecnicismos
-│     Cada función explicada con metáforas cotidianas.
-│     Diseñado para personas que nunca han programado.
-│
-└── ### El caso de vida real
-      La conexión entre el circuito y la experiencia humana.
-```
+Esta organización aloja el **Tomo 1 y Tomo 5** del *Firmware Humano Programado*
+y los proyectos científicos del dominio **biotecnolife.com** — biosensores,
+biomedicina, luminometría y sistemas de vida.
 
 ---
 
-## 📂 Los 100 experimentos
+## 🧪 Proyectos Científicos en biotecnolife.com
 
-### 📌 Capítulo 1 — Modos de ruptura del código fuente
+<details>
+<summary><b>🔴 ALTA PRIORIDAD — Ver proyectos activos</b></summary>
 
-| Experimento | Concepto central | Archivo |
-|-------------|-----------------|---------|
-| EXP-01 — Estar en la cárcel | El libre albedrío suspendido | [→](./Tomo1/EXP-01.md) |
-| EXP-02 — La desesperación | El bucle de error sin salida | [→](./Tomo1/EXP-02.md) |
-| EXP-03 — Perderlo todo | El código base que emerge | [→](./Tomo1/EXP-03.md) |
-| EXP-04 — Ganarlo todo | La jaula cómoda | [→](./Tomo1/EXP-04.md) |
-| EXP-05 — Viajar | Sin archivos de respuesta | [→](./Tomo1/EXP-05.md) |
-| EXP-06 — Tener hambre | La mente pierde autoridad | [→](./Tomo1/EXP-06.md) |
-| EXP-07 — Dolor prolongado | La ventana de modificación | [→](./Tomo1/EXP-07.md) |
-| EXP-08 — Amor a breve término | El ciclo comprimido de 90s | [→](./Tomo1/EXP-08.md) |
-| EXP-09 — Amor largo | Patrones que solo emergen con tiempo | [→](./Tomo1/EXP-09.md) |
-| EXP-10 — Participar en guerra | Las prioridades reales | [→](./Tomo1/EXP-10.md) |
-| EXP-11 — Ser Cazador | El objetivo activa capacidades latentes | [→](./Tomo1/EXP-11.md) |
-| EXP-12 — Ser la presa | Instinto sin mediación cognitiva | [→](./Tomo1/EXP-12.md) |
-| EXP-13 — Contener la rabia | La energía es redirigible | [→](./Tomo1/EXP-13.md) |
-| EXP-14 — Contener el odio | Proceso background consume ciclos | [→](./Tomo1/EXP-14.md) |
-| EXP-15 — Transformar malas energías | El mismo sensor, dos modos | [→](./Tomo1/EXP-15.md) |
-| EXP-16 — Vivir como ermitaño | Solo datos propios | [→](./Tomo1/EXP-16.md) |
-| EXP-17 — Familia numerosa | Red de recursos compartidos | [→](./Tomo1/EXP-17.md) |
-| EXP-18 — Servir como esclavo | Ego desactivado | [→](./Tomo1/EXP-18.md) |
-| EXP-19 — Ser jefe | El error del líder multiplicado | [→](./Tomo1/EXP-19.md) |
-| EXP-20 — Dos bandos en ataque | Tensión sostenida sin colapso | [→](./Tomo1/EXP-20.md) |
-| EXP-21 — Ser profesor | Los errores se revelan al transmitir | [→](./Tomo1/EXP-21.md) |
-| EXP-22 — Ser alumno | Saber vs ganar | [→](./Tomo1/EXP-22.md) |
-| EXP-23 — Combate físico | Integración mente-cuerpo | [→](./Tomo1/EXP-23.md) |
-| EXP-24 — Café literario | El cuestionamiento fortalece | [→](./Tomo1/EXP-24.md) |
-| EXP-25 — Emprendedor filosófico | Métricas de aprendizaje vs éxito | [→](./Tomo1/EXP-25.md) |
-| EXP-26 — Agricultor | Perspectiva de 7 días | [→](./Tomo1/EXP-26.md) |
-| EXP-27 — Vivir como mendigo | 3 componentes, 6 modos | [→](./Tomo1/EXP-27.md) |
-| EXP-28 — Vivir como pobre | La escasez prioriza | [→](./Tomo1/EXP-28.md) |
-| EXP-29 — Vivir como rico | El LED de búsqueda se apaga | [→](./Tomo1/EXP-29.md) |
-| EXP-30 — Tener el poder | El amplificador sin filtro | [→](./Tomo1/EXP-30.md) |
-| EXP-31 — Verdugo de animales | El ciclo completo de 5 fases | [→](./Tomo1/EXP-31.md) |
-| EXP-32 — Médico equilibrante | Equilibrio, no maximización | [→](./Tomo1/EXP-32.md) |
-| EXP-33 — Robar | El umbral real de los valores | [→](./Tomo1/EXP-33.md) |
-| EXP-34 — Ser robado | El costo de responder supera el robo | [→](./Tomo1/EXP-34.md) |
-| EXP-35 — Suplicar y rezar | Esperar sin calcular internamente | [→](./Tomo1/EXP-35.md) |
-| EXP-36 — Extremaunción | Los 5 valores esenciales preservados | [→](./Tomo1/EXP-36.md) |
-| EXP-37 — Ser camarero | Clasificar sin juzgar | [→](./Tomo1/EXP-37.md) |
-| EXP-38 — Telecomunicaciones | Ruido = probabilidad de error | [→](./Tomo1/EXP-38.md) |
-| EXP-39 — Demoler el cuerpo | Throttling térmico vs fallo total | [→](./Tomo1/EXP-39.md) |
+| Código | Descripción | Hardware | Web |
+|--------|-------------|----------|-----|
+| **METABO** | Luminómetro — metabolismo bioluminiscente | Fotodiodo Hamamatsu + TIA | [metabo.biotecnolife.com](http://metabo.biotecnolife.com) |
+| **QCMAPP_HUMANS** | QCM respiratorio — biomarcadores | QCM 10MHz piezoeléctrico | [qcmapp-humans.biotecnolife.com](http://qcmapp-humans.biotecnolife.com) |
+| **ARTERIO** | Monitor arterial no invasivo | PPG + IA | [arterio.biotecnolife.com](http://arterio.biotecnolife.com) |
+| **AMBILOWFI** | Detección ondas ELF baja frecuencia | Bobina ortogonal + INA128 | [ambilowfi.biotecnolife.com](http://ambilowfi.biotecnolife.com) |
+| **AMPSYSUPI** | Biosensores de suelo — microbiología | QCM + electroquímica | [ampsysupi.biotecnolife.com](http://ampsysupi.biotecnolife.com) |
 
-### 📌 Capítulo 2 — Sistema Emocional
+</details>
 
-| Experimento | Concepto central | Archivo |
-|-------------|-----------------|---------|
-| EXP-40 — El problema de la distancia | Costo energético de la incertidumbre | [→](./Tomo1/EXP-40.md) |
-| EXP-41 — La infidelidad | Recalibración simultánea de 4 parámetros | [→](./Tomo1/EXP-41.md) |
-| EXP-42 — El egoísmo | La red colapsa más rápido | [→](./Tomo1/EXP-42.md) |
-| EXP-43 — La ley del hielo | El silencio activa la búsqueda | [→](./Tomo1/EXP-43.md) |
-| EXP-44 — Acción de conocimiento | Funnel de 3 pasos: detectar → clasificar → actuar | [→](./Tomo1/EXP-44.md) |
-| EXP-45 — Reacción a lo perdido | La estrategia C siempre cuesta menos | [→](./Tomo1/EXP-45.md) |
-| EXP-46 — Abrir los ojos | Decisiones tomadas en la oscuridad | [→](./Tomo1/EXP-46.md) |
-| EXP-47 — Entender lo que pasa | Lo declarado vs lo real | [→](./Tomo1/EXP-47.md) |
-| EXP-48 — Cómo pasa | Vulnerabilidad detectada | [→](./Tomo1/EXP-48.md) |
-| EXP-49 — Por qué pasa | Sin error no hay actualización | [→](./Tomo1/EXP-49.md) |
-| EXP-50 — Lo que es un juego | Firma estadística de la inconsistencia | [→](./Tomo1/EXP-50.md) |
-| EXP-51 — Lo que es en serio | Consistencia real, no perfección ocasional | [→](./Tomo1/EXP-51.md) |
-| EXP-52 — Lo que es por conveniencia | El módulo oportunista | [→](./Tomo1/EXP-52.md) |
-| EXP-53 — Lo que es por opción | Atención distribuida igualitaria | [→](./Tomo1/EXP-53.md) |
-| EXP-54 — Lo que es por elección | 80% de recursos al canal elegido | [→](./Tomo1/EXP-54.md) |
-| EXP-55 — Sesgar el corazón | Apertura gradual y condicional | [→](./Tomo1/EXP-55.md) |
-| EXP-56 — Romper el corazón | Las 5 fases del duelo | [→](./Tomo1/EXP-56.md) |
-| EXP-57 — Entrenar la mente | La distancia entre estímulo y respuesta | [→](./Tomo1/EXP-57.md) |
-| EXP-58 — Distraer el cuerpo | El movimiento descarga lo que el pensamiento no puede | [→](./Tomo1/EXP-58.md) |
-| EXP-59 — El sistema fisiológico | Correlación de Pearson: emoción y cuerpo | [→](./Tomo1/EXP-59.md) |
-| EXP-60 — La dependencia | La recompensa intermitente produce más búsqueda | [→](./Tomo1/EXP-60.md) |
+<details>
+<summary><b>🟡 MEDIA PRIORIDAD — Ver proyectos en desarrollo</b></summary>
 
-### 📌 Capítulo 3 — Umbral Energético + Método Completo
+| Código | Descripción | Hardware | Web |
+|--------|-------------|----------|-----|
+| **SIGECOHU** | Control PID de humedad | Arduino + DHT22 | [sigecohu.biotecnolife.com](http://sigecohu.biotecnolife.com) |
+| **CACOTE** | Control PID de temperatura | Arduino + DS18B20 | [cacote.biotecnolife.com](http://cacote.biotecnolife.com) |
+| **AMBIRADIAC** | Medición de radiación Geiger | SBM-20 + Arduino | [ambiradiac.biotecnolife.com](http://ambiradiac.biotecnolife.com) |
+| **GAMBHIFI** | Ondas alta frecuencia RF | Bobina RF 1-30MHz | [gambhifi.biotecnolife.com](http://gambhifi.biotecnolife.com) |
+| **FOTO_SINTETIC** | Análisis agua/alimentos | Espectrómetro DIY | [foto-sintetic.biotecnolife.com](http://foto-sintetic.biotecnolife.com) |
+| **STARIONFLU** | Estación telemedicina fluidos | Arduino + BLE | [starioniflu.biotecnolife.com](http://starioniflu.biotecnolife.com) |
+| **MEDIC_STUDIO** | Estudio médico digital | Raspberry Pi | [medic-studio.biotecnolife.com](http://medic-studio.biotecnolife.com) |
+| **ORISAL_BIOMEDIC** | Salud oral y biomedicina | Sensor pH + BLE | [orisal-biomedic.biotecnolife.com](http://orisal-biomedic.biotecnolife.com) |
 
-| Rango | Descripción | Archivos |
-|-------|-------------|---------|
-| EXP-61 al EXP-73 | Umbral Energético — Las 7 entidades, campos, presencia, paz limpia | [→](./Tomo1/) |
-| EXP-74 al EXP-83 | Análisis Multidimensional — Apego, sublimación, testigo, brecha | [→](./Tomo1/) |
-| EXP-84 al EXP-92 | El Método — 8 Fases completas | [→](./Tomo1/) |
-| EXP-93 al EXP-99 | Los 12 Principios — 6 pares integrados | [→](./Tomo1/) |
-| EXP-100 | El Índice General — Mapa de los 100 experimentos | [→](./Tomo1/EXP-100.md) |
+</details>
 
 ---
 
-## 🔧 Hardware requerido
+## 📖 Firmware Humano Programado — Serie Completa
 
 ```
-Arduino Mega 2560        DHT22 (temperatura/humedad)
-HC-05 Bluetooth          MPU-6050 (acelerómetro/giroscopio)
-Módulo SD                MLX90614 (temperatura IR)
-OLED SSD1306 / LCD I2C   FSR402 (sensor de fuerza)
-Buzzer activo            LDR (fotoresistencia)
-LEDs + resistencias      PIR (sensor de movimiento)
-NRF24L01 (radio)         ACS712 (sensor de corriente)
+┌──────────────────────────────────────────────────────────────────┐
+│  📕 TOMO 1 — Sin salida          → Esta cuenta (BIOTECNOLIFE)    │
+│  📗 TOMO 2 — Con salida          → github.com/FRANPEZESCO        │
+│  📘 TOMO 3 — En desarrollo       → Próximamente                  │
+│  📙 TOMO 4 — En desarrollo       → github.com/orgs/INSELFO-COM   │
+│  📒 TOMO 5 — En desarrollo       → Esta cuenta (BIOTECNOLIFE)    │
+└──────────────────────────────────────────────────────────────────┘
+```
+
+### 📕 Tomo 1 — Sin salida · 100 Experimentos Arduino
+
+> El espejo sin filtro. El firmware humano tal como opera por defecto.
+
+| Capítulo | Experimentos | Descripción |
+|----------|-------------|-------------|
+| Cap. 1 | EXP-01 al EXP-39 | Modos de ruptura del código fuente |
+| Cap. 2 | EXP-40 al EXP-60 | Sistema Emocional |
+| Cap. 3 | EXP-61 al EXP-73 | Umbral Energético |
+| Análisis | EXP-74 al EXP-83 | Análisis Multidimensional |
+| Método | EXP-84 al EXP-100 | Las 8 Fases + 12 Principios |
+
+📂 [Ver todos los experimentos →](./Tomo1/)
+
+---
+
+## 🛠️ Stack Tecnológico
+
+```python
+# Hardware
+arduino    = "Mega 2560 + sensores especializados"
+sensores   = ["DHT22", "MPU-6050", "MLX90614", "QCM 10MHz",
+              "Hamamatsu", "FSR402", "LDR", "PIR", "ACS712",
+              "Geiger SBM-20", "INA128", "NRF24L01"]
+
+# Software
+backend    = "Python · Django · REST API"
+frontend   = "React · Chart.js · WebSockets"
+ia         = "Claude API (Anthropic) — integrada en PEZCLAU"
+datos      = "SQLite · SD Card · EEPROM · InfluxDB"
+hosting    = "PythonAnywhere · VPS propio · 58 sitios activos"
 ```
 
 ---
 
-## 💬 Comentarios por experimento
+## 📊 50 Proyectos Científicos — Resumen por Categoría
 
-Usa **[Issues](../../issues)** para compartir tu experiencia:
-
-```
-Título del Issue:  [EXP-07] Mi ventana de modificación
-Etiqueta:          experiencia-personal / pregunta-tecnica / mejora
-```
-
-Cada Issue queda como un registro permanente asociado al experimento.
+| Categoría | Proyectos | Estado |
+|-----------|-----------|--------|
+| 🔬 Sensores / Calibración | UCOMICASEG, NEWSENTEC, PROSENTEC | Activos |
+| 🌡️ Control Ambiental | SIGECOHU, CACOTE | Activos |
+| 🌍 Monitoreo Ambiental | AMBILOWFI, AMBIRADIAC, GAMBHIFI, HASNECOD, SEMIMAVA | Activos |
+| ⚡ Energía | INMESY, POFOSIMETA, PROPULSIL + 4 más | En desarrollo |
+| 🧬 Biomedicina | METABO, AMPSYSUPI, QCMAPP_HUMANS, ARTERIO + 5 más | Activos |
+| 🧠 Neuro/Cognitivo | PROTESYMA P10, PEZCLAU, SOMBRERO ESPECTRAL | Alta prioridad |
+| 📡 IoT/Plataforma | STIMATION y 4 variantes | Activos |
+| 🔒 Seguridad Comercial | SMARTLOCKPRO, SECUREZONE, CITYGUARD | Lanzamiento 2025 |
 
 ---
 
-## 🔗 Los 5 tomos del Firmware Humano
+## 📔 40 Años de Investigación — Las 64 Agendas
 
-| Tomo | Estado | Repositorio |
-|------|--------|-------------|
-| **Tomo 1 — Sin salida** | ✅ Completo | Estás aquí |
-| **Tomo 2 — Con salida** | ✅ Completo | [PEZESCOBAR](https://github.com/orgs/PEZESCOBAR) |
-| **Tomo 3** | 🔄 En desarrollo | Próximamente |
-| **Tomo 4** | 🔄 En desarrollo | [INSELFO-COM](https://github.com/orgs/INSELFO-COM) |
-| **Tomo 5** | 🔄 En desarrollo | Próximamente |
+```
+1986 ──────── 1995           Colombia · Medellín
+              1996 ────────── 2000     España · Reinvención
+                              2001 ──── 2005   Italia · Llegada
+                                        2006 ── 2010  CNR primeros años
+                                                2011 ─ 2015 Expansión
+                                                      2016─2020 Madurez
+                                                            2021─2026 Hoy
+64 cuadernos · 40 años · Un sistema que se leyó a sí mismo
+```
+
+---
+
+## 💼 Colaboraciones Clave
+
+| Institución | Tipo | Estado |
+|-------------|------|--------|
+| **CNR-IEIIT** Milano | Investigador principal | 🟢 Activo |
+| **Università Tor Vergata** Roma | Doctorado completado | 🟢 Completado |
+| **Frontiers in Sensors** | Paper QCM Humans | 🟡 En revisión |
+| **Anthropic / Claude** | IA colaborativa PEZCLAU | 🟢 Activo |
+| **Amazon KDP** | Autopublicación libros | 🟡 Pendiente launch |
+| **UNAL Medellín** | Colaboración Colombia | 🟡 Intermitente |
 
 ---
 
 <div align="center">
 
-**Autor:** [Ittalo Francisco Pezzotti Escobar](https://github.com/ittalopezzotti)
-· Investigador CNR-IEIIT · Milán, Italia
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!-- 📱 BLOQUE 2 — REDES SOCIALES                               -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+
+<table>
+<tr><td align="center" style="padding:16px; border-radius:10px;">
+
+**📱 REDES SOCIALES & CONTACTO**
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ittalo%20Pezzotti-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ittalopezzotti)
+[![Instagram](https://img.shields.io/badge/Instagram-@ittalo__pezzotti-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com)
+[![YouTube](https://img.shields.io/badge/YouTube-Firmware%20Humano-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com)
+[![GitHub Personal](https://img.shields.io/badge/GitHub-ittalopezzotti-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ittalopezzotti)
+[![inselfo.com](https://img.shields.io/badge/Web-inselfo.com-00B4D8?style=for-the-badge&logo=google-chrome&logoColor=white)](https://inselfo.com)
+[![biotecnolife.com](https://img.shields.io/badge/Web-biotecnolife.com-2DC653?style=for-the-badge&logo=google-chrome&logoColor=white)](https://biotecnolife.com)
+[![Amazon KDP](https://img.shields.io/badge/Amazon%20KDP-Libros-FF9900?style=for-the-badge&logo=amazon&logoColor=white)](https://kdp.amazon.com)
+
+</td></tr>
+</table>
+
+</div>
+
+---
+
+<div align="center">
+
+**© Dr. Ittalo Francisco Pezzotti Escobar · CNR-IEIIT · Milán, Italia · 2026**
 
 *"El experimento no es el Arduino. El experimento eres tú."*
+
+[![Perfil Personal](https://img.shields.io/badge/→%20Perfil%20Personal-ittalopezzotti-black?style=flat-square)](https://github.com/ittalopezzotti)
+[![Tomo 2 Con Salida](https://img.shields.io/badge/→%20Tomo%202%20Con%20Salida-FRANPEZESCO-green?style=flat-square)](https://github.com/FRANPEZESCO)
+[![INSELFO Proyectos](https://img.shields.io/badge/→%20INSELFO%20Proyectos-INSELFO--COM-blue?style=flat-square)](https://github.com/orgs/INSELFO-COM)
 
 </div>
