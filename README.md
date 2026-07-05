@@ -1,222 +1,367 @@
 ## Hi there 👋
 ##  **FRANPEZESCO/FRANPEZESCO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 # 🧬 BIOTECNOLIFE — Dr. Ittalo Francisco Pezzotti Escobar
+# 🧬 FRANPEZESCO — Dr. Ittalo Francisco Pezzotti Escobar
 
 <div align="center">
 
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!-- 🔬 BLOQUE 1 — REDES CIENTÍFICAS                            -->
-<!-- ═══════════════════════════════════════════════════════════ -->
+<!-- ══════════════════════════════════════════════════════════════ -->
+<!--  🔬  BLOQUE 1 — REDES CIENTÍFICAS & ACADÉMICAS               -->
+<!-- ══════════════════════════════════════════════════════════════ -->
 
-<table>
-<tr><td align="center" style="background:#0a1628; padding:16px; border-radius:10px;">
-
-**🔬 REDES CIENTÍFICAS & ACADÉMICAS**
-
-[![CNR-IEIIT](https://img.shields.io/badge/CNR--IEIIT-Investigador%20Activo-003087?style=for-the-badge&logo=flask&logoColor=white)](https://www.ieiit.cnr.it)
-[![ORCID](https://img.shields.io/badge/ORCID-0000--0000--0000--0000-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org)
-[![ResearchGate](https://img.shields.io/badge/ResearchGate-Perfil-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white)](https://www.researchgate.net)
-[![Scopus](https://img.shields.io/badge/Scopus-Publicaciones-FF6C00?style=for-the-badge&logo=elsevier&logoColor=white)](https://www.scopus.com)
-[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-Citas-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com)
-[![Web of Science](https://img.shields.io/badge/Web%20of%20Science-Indexado-B31B1B?style=for-the-badge&logoColor=white)](https://www.webofscience.com)
-[![CvLAC](https://img.shields.io/badge/CvLAC-Minciencias%20Colombia-009933?style=for-the-badge&logoColor=white)](https://scienti.minciencias.gov.co)
-[![Zenodo](https://img.shields.io/badge/Zenodo-CERN%20DOI-024D85?style=for-the-badge&logo=zenodo&logoColor=white)](https://zenodo.org)
-[![Frontiers](https://img.shields.io/badge/Frontiers%20in%20Sensors-En%20Revisión-F0A500?style=for-the-badge&logoColor=white)](https://www.frontiersin.org)
-[![Academia.edu](https://img.shields.io/badge/Academia.edu-Investigador-41454A?style=for-the-badge&logoColor=white)](https://www.academia.edu)
-
-</td></tr>
-</table>
+| 🔬 REDES CIENTÍFICAS & ACADÉMICAS |
+|:---:|
+| [![CNR-IEIIT](https://img.shields.io/badge/CNR--IEIIT-Investigador%20Activo-003087?style=for-the-badge&logo=flask&logoColor=white)](https://www.ieiit.cnr.it) [![ORCID](https://img.shields.io/badge/ORCID-Perfil%20Académico-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org) [![ResearchGate](https://img.shields.io/badge/ResearchGate-Publicaciones-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white)](https://www.researchgate.net) [![Scopus](https://img.shields.io/badge/Scopus-Indexado-FF6C00?style=for-the-badge&logo=elsevier&logoColor=white)](https://www.scopus.com) |
+| [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-Citas-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com) [![Web of Science](https://img.shields.io/badge/Web%20of%20Science-WoS-B31B1B?style=for-the-badge&logoColor=white)](https://www.webofscience.com) [![CvLAC](https://img.shields.io/badge/CvLAC-Minciencias%20Colombia-009933?style=for-the-badge&logoColor=white)](https://scienti.minciencias.gov.co) [![Zenodo](https://img.shields.io/badge/Zenodo-DOI%20CERN-024D85?style=for-the-badge&logo=zenodo&logoColor=white)](https://zenodo.org) |
+| [![Frontiers](https://img.shields.io/badge/Frontiers%20in%20Sensors-Paper%20en%20revisión-F0A500?style=for-the-badge&logoColor=white)](https://www.frontiersin.org) [![Academia.edu](https://img.shields.io/badge/Academia.edu-Investigador-41454A?style=for-the-badge&logoColor=white)](https://www.academia.edu) [![Mendeley](https://img.shields.io/badge/Mendeley-Referencias-9B1D20?style=for-the-badge&logo=mendeley&logoColor=white)](https://www.mendeley.com) [![Hackaday](https://img.shields.io/badge/Hackaday.io-Proyectos%20Hardware-1A1A1A?style=for-the-badge&logoColor=white)](https://hackaday.io) |
 
 </div>
 
 ---
 
-## 🧠 Dr. Ittalo Francisco Pezzotti Escobar
-
-<div align="center">
+## 🧠 Quién es IFPE
 
 ```
-┌─────────────────────────────────────────────────────────────────┐
-│  Ingeniero Informático · Doctor · Investigador CNR · Escritor    │
-│  Nacido en Medellín, Colombia, 1973 · Vive en Milán desde 2003  │
-│  CNR-IEIIT (Consiglio Nazionale delle Ricerche) · Milán, Italia  │
-│  Especialidad: Biosensores · Sensores de Gas · Sistemas Sensoriales│
-└─────────────────────────────────────────────────────────────────┘
+┌─────────────────────────────────────────────────────────────────────────┐
+│  Dr. Ittalo Francisco Pezzotti Escobar  ·  Milán, Italia  ·  Desde 2003 │
+│  Ingeniero Informático — Universidad de Sabaneta, Colombia               │
+│  Doctor en Ingeniería de Sistemas Sensoriales — Roma Tor Vergata         │
+│  Investigador CNR-IEIIT — Biosensores · Sensores de Gas · IA             │
+│  Nacido en Medellín, 1973  ·  40 años de agendas  ·  10 libros          │
+└─────────────────────────────────────────────────────────────────────────┘
 ```
-
-</div>
 
 > *"Soy un sistema programado que decidió leer su propio código fuente.
-> 40 años de agendas, 50 proyectos científicos, 10 libros, 58 sitios web,
+> 64 agendas, 50 proyectos científicos, 10 libros, 58 sitios Django,
 > y la certeza de que la ciencia y la conciencia hablan el mismo lenguaje."*
 
 ---
 
-## 📚 BIOTECNOLIFE — Contenido de esta cuenta
+## 📚 LIBROS — 10 títulos en dos series
 
-Esta organización aloja el **Tomo 1 y Tomo 5** del *Firmware Humano Programado*
-y los proyectos científicos del dominio **biotecnolife.com** — biosensores,
-biomedicina, luminometría y sistemas de vida.
+<details open>
+<summary><b>📕 Serie 1 — Firmware Humano Programado (5 Tomos)</b></summary>
 
----
-
-## 🧪 Proyectos Científicos en biotecnolife.com
-
-<details>
-<summary><b>🔴 ALTA PRIORIDAD — Ver proyectos activos</b></summary>
-
-| Código | Descripción | Hardware | Web |
-|--------|-------------|----------|-----|
-| **METABO** | Luminómetro — metabolismo bioluminiscente | Fotodiodo Hamamatsu + TIA | [metabo.biotecnolife.com](http://metabo.biotecnolife.com) |
-| **QCMAPP_HUMANS** | QCM respiratorio — biomarcadores | QCM 10MHz piezoeléctrico | [qcmapp-humans.biotecnolife.com](http://qcmapp-humans.biotecnolife.com) |
-| **ARTERIO** | Monitor arterial no invasivo | PPG + IA | [arterio.biotecnolife.com](http://arterio.biotecnolife.com) |
-| **AMBILOWFI** | Detección ondas ELF baja frecuencia | Bobina ortogonal + INA128 | [ambilowfi.biotecnolife.com](http://ambilowfi.biotecnolife.com) |
-| **AMPSYSUPI** | Biosensores de suelo — microbiología | QCM + electroquímica | [ampsysupi.biotecnolife.com](http://ampsysupi.biotecnolife.com) |
+| # | Título | Idioma | Estado | Palabras | Editorial | €/mes est. |
+|---|--------|--------|--------|----------|-----------|------------|
+| Tomo 1 | Destrucción del Firmware Humano | ES/IT | 🟢 Listo | ~80.000 | KDP + IngramSpark | 300–700 |
+| Tomo 2 | Firmware Humano — Con Salida | ES/IT | 🟢 Listo | ~80.000 | KDP | 300–700 |
+| Tomo 3 | Firmware Humano III | ES | 🔄 Desarrollo | — | KDP | — |
+| Tomo 4 | Firmware Humano IV | ES | 🔄 Desarrollo | — | KDP | — |
+| Tomo 5 | Firmware Humano V | ES | 🔄 Desarrollo | — | KDP | — |
 
 </details>
 
-<details>
-<summary><b>🟡 MEDIA PRIORIDAD — Ver proyectos en desarrollo</b></summary>
+<details open>
+<summary><b>🟡 Serie 2 — Los 6 Gases de Pezesco (5 Tomos) + Otros</b></summary>
 
-| Código | Descripción | Hardware | Web |
-|--------|-------------|----------|-----|
-| **SIGECOHU** | Control PID de humedad | Arduino + DHT22 | [sigecohu.biotecnolife.com](http://sigecohu.biotecnolife.com) |
-| **CACOTE** | Control PID de temperatura | Arduino + DS18B20 | [cacote.biotecnolife.com](http://cacote.biotecnolife.com) |
-| **AMBIRADIAC** | Medición de radiación Geiger | SBM-20 + Arduino | [ambiradiac.biotecnolife.com](http://ambiradiac.biotecnolife.com) |
-| **GAMBHIFI** | Ondas alta frecuencia RF | Bobina RF 1-30MHz | [gambhifi.biotecnolife.com](http://gambhifi.biotecnolife.com) |
-| **FOTO_SINTETIC** | Análisis agua/alimentos | Espectrómetro DIY | [foto-sintetic.biotecnolife.com](http://foto-sintetic.biotecnolife.com) |
-| **STARIONFLU** | Estación telemedicina fluidos | Arduino + BLE | [starioniflu.biotecnolife.com](http://starioniflu.biotecnolife.com) |
-| **MEDIC_STUDIO** | Estudio médico digital | Raspberry Pi | [medic-studio.biotecnolife.com](http://medic-studio.biotecnolife.com) |
-| **ORISAL_BIOMEDIC** | Salud oral y biomedicina | Sensor pH + BLE | [orisal-biomedic.biotecnolife.com](http://orisal-biomedic.biotecnolife.com) |
+| # | Título | Idioma | Estado | Palabras | Editorial | €/mes est. |
+|---|--------|--------|--------|----------|-----------|------------|
+| — | Los 6 Gases de Pezesco | ES | 🟢 Listo | ~50.000 | KDP | 150–400 |
+| — | Della Galera alla Ricerca | IT/ES | 🟢 Listo | ~70.000 | KDP + StreetLib | 200–500 |
+| — | Lectura de Pensamientos — Sombrero | ES/IT | 🟡 90% | ~60.000 | KDP + Zenodo | 200–450 |
+| — | Comunicaciones entre Humanos | ES | 🟡 80% | ~45.000 | KDP | 100–300 |
+| — | Ruptura de la Personalidad | ES | 🟡 70% | ~40.000 | KDP | 100–250 |
+
+📖 **Editoriales objetivo:** Ediciones Urano · Hay House · Feltrinelli · Macro Edizioni · Edizioni Mediterranee
 
 </details>
 
 ---
 
-## 📖 Firmware Humano Programado — Serie Completa
+## 🔬 PROYECTOS CIENTÍFICOS — 50 activos
 
-```
-┌──────────────────────────────────────────────────────────────────┐
-│  📕 TOMO 1 — Sin salida          → Esta cuenta (BIOTECNOLIFE)    │
-│  📗 TOMO 2 — Con salida          → github.com/FRANPEZESCO        │
-│  📘 TOMO 3 — En desarrollo       → Próximamente                  │
-│  📙 TOMO 4 — En desarrollo       → github.com/orgs/INSELFO-COM   │
-│  📒 TOMO 5 — En desarrollo       → Esta cuenta (BIOTECNOLIFE)    │
-└──────────────────────────────────────────────────────────────────┘
-```
+<details>
+<summary><b>🧬 Biomedicina — 8 proyectos</b></summary>
 
-### 📕 Tomo 1 — Sin salida · 100 Experimentos Arduino
+| Código | Descripción | Hardware | Web | Estado |
+|--------|-------------|----------|-----|--------|
+| **METABO** | Luminómetro — metabolismo bioluminiscente | Fotodiodo Hamamatsu + TIA + ADC 16bit | [metabo.biotecnolife.com](#) | 🔴 Alta |
+| **QCMAPP_HUMANS** | QCM respiratorio — biomarcadores humanos | QCM 10MHz piezoeléctrico | [qcmapp-humans.biotecnolife.com](#) | 🔴 Alta — Paper Frontiers |
+| **ARTERIO** | Monitor arterial no invasivo | PPG + IA | [arterio.biotecnolife.com](#) | 🔴 Alta |
+| **AMPSYSUPI** | Biosensores de suelo — microbiología | QCM + electroquímica | [ampsysupi.biotecnolife.com](#) | 🟡 Media |
+| **FOTO_SINTETIC** | Análisis agua/alimentos — fotosintético | Espectrómetro DIY | [foto-sintetic.biotecnolife.com](#) | 🟡 Media |
+| **STARIONFLU** | Estación telemedicina — fluidos | Arduino + BLE | [starioniflu.biotecnolife.com](#) | 🟡 Media |
+| **MEDIC_STUDIO** | Estudio médico digital | Raspberry Pi | [medic-studio.biotecnolife.com](#) | 🟡 Media |
+| **ORISAL_BIOMEDIC** | Salud oral y biomedicina | Sensor pH + BLE | [orisal-biomedic.biotecnolife.com](#) | 🟢 Baja |
 
-> El espejo sin filtro. El firmware humano tal como opera por defecto.
+</details>
 
-| Capítulo | Experimentos | Descripción |
-|----------|-------------|-------------|
-| Cap. 1 | EXP-01 al EXP-39 | Modos de ruptura del código fuente |
-| Cap. 2 | EXP-40 al EXP-60 | Sistema Emocional |
-| Cap. 3 | EXP-61 al EXP-73 | Umbral Energético |
-| Análisis | EXP-74 al EXP-83 | Análisis Multidimensional |
-| Método | EXP-84 al EXP-100 | Las 8 Fases + 12 Principios |
+<details>
+<summary><b>🧠 Neuro/Cognitivo — 5 proyectos (ALTA PRIORIDAD)</b></summary>
 
-📂 [Ver todos los experimentos →](./Tomo1/)
+| Código | Descripción | Hardware | Estado |
+|--------|-------------|----------|--------|
+| **PROTESYMA P10** | Sistema detección estado cognitivo — Sombrero Hashtag | Arduino Mega + 4×ESP32-CAM + MLX90640 + MQ + Bobina | 🔴 Alta |
+| **HASNECOD/PEZCLAU** | Sombrero PEZCLAU + Claude AI integrada | Arduino Mega + ESP32 + API Claude | 🔴 Alta 2026 |
+| **SOMBRERO ESPECTRAL** | EXP-65 — Espectroscopía multiespectral 410-900nm | Arduino + Hamamatsu + Geiger + EM | 🔴 Alta 2026 |
+| **SENSORY_DISTURBER** | Alteraciones sensoriales — patrones EEG-like | Multi-sensor | 🟡 Media |
+| **EIDOLON EXP-11** | Teoría del Pánico — sistema EIDOLON | Software + sensores | 🟡 Media 2026 |
+
+</details>
+
+<details>
+<summary><b>🌍 Monitoreo Ambiental — 6 proyectos</b></summary>
+
+| Código | Descripción | Hardware | Web | Estado |
+|--------|-------------|----------|-----|--------|
+| **AMBILOWFI** | Detección ondas ELF baja frecuencia | Bobina ortogonal + INA128 | [ambilowfi.biotecnolife.com](#) | 🔴 Alta |
+| **HASNECOD** | Calidad del aire con GPS — móvil | Arduino + GPS + MQ | [hasnecod.inselfo.com](#) | 🔴 Alta |
+| **AMBIRADIAC** | Medición de radiación Geiger SBM-20 | Geiger + Arduino | [ambiradiac.biotecnolife.com](#) | 🟡 Media |
+| **GAMBHIFI** | Ondas alta frecuencia RF 1-30MHz | Bobina RF | [gambhifi.biotecnolife.com](#) | 🟡 Media |
+| **GENERATOR_POLLUTION** | Generador controlado de gases contaminantes | MFC + Arduino | [generator-pollution.inselfo.com](#) | 🟡 Media |
+| **SEMIMAVA** | Análisis de impacto ambiental | Multi-sensor | [semimava.inselfo.com](#) | 🟡 Media |
+
+</details>
+
+<details>
+<summary><b>🔬 Sensores & Calibración — 3 proyectos</b></summary>
+
+| Código | Descripción | Hardware | Web | Estado |
+|--------|-------------|----------|-----|--------|
+| **UCOMICASEG** | Calibración sensores de gas — referencia | Arduino Mega + MQ-array | [ucomicaseg.inselfo.com](#) | 🔴 Alta |
+| **NEWSENTEC** | Nuevos sensores de gas artesanales | Arduino Mega + Sensores Tipo-A | [newsentec.inselfo.com](#) | 🔴 Alta |
+| **PROSENTEC** | Testeo y validación de sensores | Arduino Mega | [prosentec.inselfo.com](#) | 🟡 Media |
+
+</details>
+
+<details>
+<summary><b>⚡ Energía — 6 proyectos</b></summary>
+
+| Código | Descripción | Hardware | Estado |
+|--------|-------------|----------|--------|
+| **INMESY** | Materiales termoeléctricos ΔT→Voltaje | Peltieres + Arduino | 🟡 Media |
+| **POFOSIMETA** | Fotovoltaica I — celdas solares MPPT | Panel + MPPT | 🟡 Media |
+| **COQUIPESE** | Fotovoltaica II — curvas I-V | Panel + Arduino | 🟢 Baja |
+| **COSOEXPE** | Fotovoltaica III — perovskita | Panel experimental | 🟢 Baja |
+| **PROPULSIL** | Propulsión y sistemas de energía | Motor + control | 🟡 Media |
+| **SPICOAUTOSI** | Propulsión autónoma autoestabilizada | Micro-motor + IMU | 🟢 Baja |
+
+</details>
+
+<details>
+<summary><b>🔒 Seguridad Comercial — 4 proyectos (LANZAMIENTO 2025)</b></summary>
+
+| Código | Descripción | Mercado | Precio | Web | Estado |
+|--------|-------------|---------|--------|-----|--------|
+| **SMARTLOCKPRO** | Cerradura inteligente B2C — familias | Consumidor | €50/u | [smartlockpro.inselfo.com](#) | 🔴 Launch |
+| **SECUREZONE** | Cerradura inteligente B2B — empresas | Empresas | €2.5K-25K/año | [securezone.inselfo.com](#) | 🔴 Launch |
+| **CITYGUARD** | Seguridad urbana — gobierno | Gobierno | €100K-500K | [cityguard.inselfo.com](#) | 🔴 Launch |
+| **BUSTAPEZZ** | Sistema apertura puertas RFID+BLE | Mixto | — | [bustapezz.inselfo.com](#) | 🟡 Media |
+
+</details>
+
+<details>
+<summary><b>📡 IoT/Plataforma — 5 proyectos</b></summary>
+
+| Código | Descripción | Web | Estado |
+|--------|-------------|-----|--------|
+| **STIMATION** | Plataforma IoT estándar base — multi-protocolo | [stimation.inselfo.com](#) | 🔴 Alta |
+| **STIMATION-STD** | STIMATION versión standard lite | [stimation-standard.inselfo.com](#) | 🟡 Media |
+| **STIMATION-FULL** | STIMATION full features + InfluxDB | [stimation-full.inselfo.com](#) | 🟡 Media |
+| **STIMATION-IND** | STIMATION independiente edge/offline | [stimation-independent.inselfo.com](#) | 🟢 Baja |
+| **MOBICOM-MONBOX** | Monitor móvil comunicaciones BLE+WiFi | [mobicom-monbox.inselfo.com](#) | 🟡 Media |
+
+</details>
+
+<details>
+<summary><b>🤖 IA & Software — 5 proyectos</b></summary>
+
+| Código | Descripción | Stack | Estado |
+|--------|-------------|-------|--------|
+| **AISTREC** | IA de análisis y censura de contenido | Python + GPU + NLP + Vision | 🟡 Media |
+| **ISTSUM** | IA mensajes subliminales | Python + BERT | 🟡 Media |
+| **LINECVIA** | Plataforma trabajo e identidad | Django + AI | 🟢 Baja |
+| **SULFATEM** | Telemedicina con IA — diagnóstico | Django + ML | 🟡 Media |
+| **EAQUAE** | Crónica mundial con IA — noticias | Django + RSS API | 🟡 Media |
+
+</details>
 
 ---
 
-## 🛠️ Stack Tecnológico
+## 💻 SOFTWARE & WEBS — 58 sitios Django
 
-```python
-# Hardware
-arduino    = "Mega 2560 + sensores especializados"
-sensores   = ["DHT22", "MPU-6050", "MLX90614", "QCM 10MHz",
-              "Hamamatsu", "FSR402", "LDR", "PIR", "ACS712",
-              "Geiger SBM-20", "INA128", "NRF24L01"]
+<details>
+<summary><b>🌐 Ver los 58 sitios organizados por dominio</b></summary>
 
-# Software
-backend    = "Python · Django · REST API"
-frontend   = "React · Chart.js · WebSockets"
-ia         = "Claude API (Anthropic) — integrada en PEZCLAU"
-datos      = "SQLite · SD Card · EEPROM · InfluxDB"
-hosting    = "PythonAnywhere · VPS propio · 58 sitios activos"
+### Dominio biotecnolife.com — Vida, Ciencia, Naturaleza
+| Sitio | Puerto | Estado |
+|-------|--------|--------|
+| biotecnolife.com | 8001 | 🟢 Producción |
+| sigecohu.biotecnolife.com | 8009 | 🟡 Desarrollo |
+| cacote.biotecnolife.com | 8010 | 🟡 Desarrollo |
+| ambilowfi.biotecnolife.com | 8013 | 🟡 Desarrollo |
+| ambiradiac.biotecnolife.com | 8014 | 🟡 Desarrollo |
+| gambhifi.biotecnolife.com | 8015 | 🟡 Desarrollo |
+| metabo.biotecnolife.com | 8018 | 🟡 Desarrollo |
+| ampsysupi.biotecnolife.com | 8019 | 🟡 Desarrollo |
+| foto-sintetic.biotecnolife.com | 8020 | 🟡 Desarrollo |
+| starioniflu.biotecnolife.com | 8021 | 🟡 Desarrollo |
+| medic-studio.biotecnolife.com | 8022 | 🟡 Desarrollo |
+| orisal-biomedic.biotecnolife.com | 8023 | 🟡 Desarrollo |
+| arterio.biotecnolife.com | 8024 | 🟡 Desarrollo |
+| qcmapp-humans.biotecnolife.com | 8028 | 🟡 Desarrollo |
+
+### Dominio inselfo.com — Energía, Electrónica, Sensores
+| Sitio | Puerto | Estado |
+|-------|--------|--------|
+| inselfo.com | 8000 | 🟢 Producción |
+| stimation.inselfo.com | 8029 | 🟡 Desarrollo |
+| hasnecod.inselfo.com | 8025 | 🟢 Activo |
+| smartlockpro.inselfo.com | 8055 | 🟡 Desarrollo |
+| securezone.inselfo.com | 8056 | 🟡 Desarrollo |
+| cityguard.inselfo.com | 8057 | 🟡 Desarrollo |
+| ucomicaseg.inselfo.com | 8011 | 🟡 Desarrollo |
+| newsentec.inselfo.com | 8031 | 🟡 Desarrollo |
+| aistrec.inselfo.com | 8039 | 🟡 Desarrollo |
+| + 29 sitios más en puertos 8003-8057 | — | 🟡 Desarrollo |
+
+### Libros — Sitios dedicados
+| Libro | URL | Puerto |
+|-------|-----|--------|
+| Los 6 Gases de Pezesco | libro-6gases.inselfo.com | 8003 |
+| Destrucción del Firmware Humano | libro-destruccion-fw.inselfo.com | 8004 |
+| Della Galera alla Ricerca | libro-gallera-ricerca.inselfo.com | 8005 |
+| Lectura de Pensamientos | libro-lectura-pensamientos.inselfo.com | 8006 |
+| Comunicaciones entre Humanos | libro-comunicaciones.inselfo.com | 8007 |
+| Ruptura de la Personalidad | libro-personalidad.inselfo.com | 8008 |
+
+</details>
+
+---
+
+## 🛠️ FIRMWARE & PROTOTIPOS ARDUINO — Hardware Real
+
+<details open>
+<summary><b>🤖 Ver los experimentos del Firmware Humano (EXP-01 a EXP-100)</b></summary>
+
+### Tomo 1 — Sin salida · Capítulo 1 (EXP-01 al EXP-39)
+| Experimento | Concepto | Código |
+|-------------|----------|--------|
+| [EXP-01 — La cárcel](./Tomo1/EXP-01.md) | El libre albedrío suspendido | [→](#) |
+| [EXP-07 — Dolor prolongado](./Tomo1/EXP-07.md) | La ventana de modificación del código | [→](#) |
+| [EXP-14 — Contener el odio](./Tomo1/EXP-14.md) | Proceso background consume ciclos | [→](#) |
+| [EXP-30 — Tener el poder](./Tomo1/EXP-30.md) | El amplificador real LM358 | [→](#) |
+| ... | *Ver todos los 100 experimentos* | [📂 Tomo1/](./Tomo1/) |
+
+### Tomo 5 — En desarrollo
+> Experimentos y código en construcción — watch este repositorio para notificaciones
+
+</details>
+
+---
+
+## 🗄️ BASES DE DATOS & ARQUITECTURA
+
+```
+┌─────────────────────────────────────────────────────────────────┐
+│  ARQUITECTURA DEL SISTEMA IFPE                                   │
+├─────────────────────────────────────────────────────────────────┤
+│  Hardware  →  Arduino Mega / ESP32                               │
+│  Firmware  →  C/C++ con EEPROM + SD Card + I2C + Serial         │
+│  Comm.     →  Bluetooth HC-05 / WiFi / NRF24L01                 │
+│  Backend   →  Django REST API (58 instancias, puertos 8000-8057) │
+│  BD Local  →  SQLite por proyecto                                │
+│  BD Serie  →  InfluxDB (STIMATION-FULL)                          │
+│  BD Temp.  →  SD Card CSV / EEPROM Arduino                       │
+│  IA        →  Claude API Anthropic (PEZCLAU / PROTESYMA)         │
+│  Hosting   →  PythonAnywhere + VPS propio                        │
+│  Archivos  →  Zenodo DOI (CERN/OpenAIRE)                         │
+└─────────────────────────────────────────────────────────────────┘
 ```
 
 ---
 
-## 📊 50 Proyectos Científicos — Resumen por Categoría
+## 🎨 DISEÑO DE IMÁGENES & IDENTIDAD VISUAL
 
-| Categoría | Proyectos | Estado |
-|-----------|-----------|--------|
-| 🔬 Sensores / Calibración | UCOMICASEG, NEWSENTEC, PROSENTEC | Activos |
-| 🌡️ Control Ambiental | SIGECOHU, CACOTE | Activos |
-| 🌍 Monitoreo Ambiental | AMBILOWFI, AMBIRADIAC, GAMBHIFI, HASNECOD, SEMIMAVA | Activos |
-| ⚡ Energía | INMESY, POFOSIMETA, PROPULSIL + 4 más | En desarrollo |
-| 🧬 Biomedicina | METABO, AMPSYSUPI, QCMAPP_HUMANS, ARTERIO + 5 más | Activos |
-| 🧠 Neuro/Cognitivo | PROTESYMA P10, PEZCLAU, SOMBRERO ESPECTRAL | Alta prioridad |
-| 📡 IoT/Plataforma | STIMATION y 4 variantes | Activos |
-| 🔒 Seguridad Comercial | SMARTLOCKPRO, SECUREZONE, CITYGUARD | Lanzamiento 2025 |
-
----
-
-## 📔 40 Años de Investigación — Las 64 Agendas
-
-```
-1986 ──────── 1995           Colombia · Medellín
-              1996 ────────── 2000     España · Reinvención
-                              2001 ──── 2005   Italia · Llegada
-                                        2006 ── 2010  CNR primeros años
-                                                2011 ─ 2015 Expansión
-                                                      2016─2020 Madurez
-                                                            2021─2026 Hoy
-64 cuadernos · 40 años · Un sistema que se leyó a sí mismo
-```
+| Recurso | Descripción | Estado |
+|---------|-------------|--------|
+| **Logo IFPE SVG** | Identidad visual Dr. I.F.P.E — dorado/negro | 🟡 En construcción |
+| **Banner LinkedIn** | Logo dorado + bio trilingüe + CNR | 🟡 Esta semana |
+| **Portadas libros** | Canva — 6 libros publicables | 🟡 En diseño |
+| **Identidad GitHub** | README con badges, logos, estructura | 🟢 Este archivo |
+| **Firma email** | HTML trilingüe ES/IT/EN | 🟡 Pendiente |
+| **Kit Arduino visual** | Diseño packaging €89-119 | 🟡 Planificación |
+| **Canal YouTube** | Thumbnails experimentos IFPE | 🟡 Pendiente |
 
 ---
 
-## 💼 Colaboraciones Clave
+## 📔 64 AGENDAS — 40 Años de Ideas (1986–2026)
 
-| Institución | Tipo | Estado |
-|-------------|------|--------|
-| **CNR-IEIIT** Milano | Investigador principal | 🟢 Activo |
-| **Università Tor Vergata** Roma | Doctorado completado | 🟢 Completado |
-| **Frontiers in Sensors** | Paper QCM Humans | 🟡 En revisión |
-| **Anthropic / Claude** | IA colaborativa PEZCLAU | 🟢 Activo |
-| **Amazon KDP** | Autopublicación libros | 🟡 Pendiente launch |
-| **UNAL Medellín** | Colaboración Colombia | 🟡 Intermitente |
+```
+📓 Agendas  1-10  → 1986-1995  Colombia · Juventud · Primeros proyectos
+📓 Agendas 11-18  → 1996-2000  España · Cárcel · Reinvención personal
+📓 Agendas 19-26  → 2001-2005  Italia · Llegada · Primeros IoT
+📓 Agendas 27-34  → 2006-2010  CNR · Primeros años · Prototipos
+📓 Agendas 35-50  → 2011-2020  Expansión · Colombia-Italia · Biosensores
+📓 Agendas 51-64  → 2021-2026  PEZCLAU · Sombrero · 10 libros ← PRIORIDAD
+```
+
+> 🔴 **Digitalización en curso** — Agendas 51-64 son prioridad alta.
+> Contienen la génesis de todos los proyectos activos actuales.
+
+---
+
+## 🤝 COLABORACIONES CLAVE — 80 activas/pendientes
+
+| Institución | Tipo | País | Estado |
+|-------------|------|------|--------|
+| **CNR-IEIIT Milano** | Investigador principal | Italia | 🟢 Activo |
+| **Università Tor Vergata** | Doctorado completado | Italia | 🟢 Completado |
+| **Frontiers in Sensors** | Paper QCM Humans en revisión | Internacional | 🟡 En revisión |
+| **Anthropic / Claude** | IA colaborativa PEZCLAU | Internacional | 🟢 Activo |
+| **Amazon KDP** | Publicación libros | Internacional | 🟡 Launch inmediato |
+| **IngramSpark** | Distribución global física | Internacional | 🟡 Pendiente |
+| **Ediciones Urano / Hay House** | Editorial objetivo | ES/USA | 🟡 Propuesta |
+| **UNAL Medellín** | Investigación Colombia | Colombia | 🟡 Intermitente |
+| **Zenodo CERN** | DOI proyectos y código | Internacional | 🟡 Pendiente |
+
+---
+
+## 🗺️ HOJA DE RUTA 2026-2027
+
+| Período | Acción | Impacto |
+|---------|--------|---------|
+| **Julio 2026** | Publicar Firmware Humano en KDP | 💥 Muy alto |
+| **Julio 2026** | Responder reviewers Frontiers | 🏆 Académico |
+| **Julio 2026** | Paper QCM Humans — publicación | 🏆 Académico |
+| **Jul-Sep 2026** | SMARTLOCKPRO launch comercial | 💰 Revenue |
+| **Sep 2026** | SECUREZONE primer cliente B2B | 💰 Revenue |
+| **Oct 2026** | CITYGUARD licitación municipal | 💰 Máximo |
+| **2027 Q1** | Traducción inglés — Babelcube | 💥 Global |
+| **2027 Q1** | Kit Arduino físico 100 unidades | 💰 Hardware |
+| **2027 Q2** | Congreso IEEE/MDPI — PROTESYMA | 🏆 Global |
 
 ---
 
 <div align="center">
 
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!-- 📱 BLOQUE 2 — REDES SOCIALES                               -->
-<!-- ═══════════════════════════════════════════════════════════ -->
+<!-- ══════════════════════════════════════════════════════════════ -->
+<!--  📱  BLOQUE 2 — REDES SOCIALES & CONTACTO                    -->
+<!-- ══════════════════════════════════════════════════════════════ -->
 
-<table>
-<tr><td align="center" style="padding:16px; border-radius:10px;">
-
-**📱 REDES SOCIALES & CONTACTO**
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ittalo%20Pezzotti-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ittalopezzotti)
-[![Instagram](https://img.shields.io/badge/Instagram-@ittalo__pezzotti-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com)
-[![YouTube](https://img.shields.io/badge/YouTube-Firmware%20Humano-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com)
-[![GitHub Personal](https://img.shields.io/badge/GitHub-ittalopezzotti-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ittalopezzotti)
-[![inselfo.com](https://img.shields.io/badge/Web-inselfo.com-00B4D8?style=for-the-badge&logo=google-chrome&logoColor=white)](https://inselfo.com)
-[![biotecnolife.com](https://img.shields.io/badge/Web-biotecnolife.com-2DC653?style=for-the-badge&logo=google-chrome&logoColor=white)](https://biotecnolife.com)
-[![Amazon KDP](https://img.shields.io/badge/Amazon%20KDP-Libros-FF9900?style=for-the-badge&logo=amazon&logoColor=white)](https://kdp.amazon.com)
-
-</td></tr>
-</table>
-
-</div>
+| 📱 REDES SOCIALES & CONTACTO |
+|:---:|
+| [![LinkedIn](https://img.shields.io/badge/LinkedIn-Ittalo%20Pezzotti-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ittalopezzotti) [![Instagram](https://img.shields.io/badge/Instagram-Científico-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com) [![YouTube](https://img.shields.io/badge/YouTube-Firmware%20Humano-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com) |
+| [![inselfo.com](https://img.shields.io/badge/🌐%20inselfo.com-Portal%20Principal-00B4D8?style=for-the-badge)](https://inselfo.com) [![biotecnolife.com](https://img.shields.io/badge/🌿%20biotecnolife.com-Vida%20y%20Ciencia-2DC653?style=for-the-badge)](https://biotecnolife.com) |
+| [![GitHub Personal](https://img.shields.io/badge/GitHub-ittalopezzotti-181717?style=for-the-badge&logo=github)](https://github.com/ittalopezzotti) [![Amazon KDP](https://img.shields.io/badge/Amazon%20KDP-Mis%20Libros-FF9900?style=for-the-badge&logo=amazon&logoColor=white)](#) [![PythonAnywhere](https://img.shields.io/badge/PythonAnywhere-Hosting-306998?style=for-the-badge&logo=python&logoColor=white)](https://pythonanywhere.com) |
 
 ---
 
-<div align="center">
+### 🔗 Las 4 cuentas GitHub de IFPE
+
+| Cuenta | Contenido | Link |
+|--------|-----------|------|
+| **ittalopezzotti** | Perfil personal · Proyectos CNR · Puente | [→ github.com/ittalopezzotti](https://github.com/ittalopezzotti) |
+| **FRANPEZESCO** | Firmware Humano Tomo 1 + Tomo 5 · Biotecnolife | ← Estás aquí |
+| **PEZESCOBAR** | Firmware Humano Tomo 2 + Tomo 3 · Con salida | [→ github.com/PEZESCOBAR](#) |
+| **INSELFO-COM** | Firmware Humano Tomo 4 · Los 6 Gases · Inselfo | [→ github.com/orgs/INSELFO-COM](https://github.com/orgs/INSELFO-COM) |
+
+---
 
 **© Dr. Ittalo Francisco Pezzotti Escobar · CNR-IEIIT · Milán, Italia · 2026**
 
 *"El experimento no es el Arduino. El experimento eres tú."*
 
-[![Perfil Personal](https://img.shields.io/badge/→%20Perfil%20Personal-ittalopezzotti-black?style=flat-square)](https://github.com/ittalopezzotti)
-[![Tomo 2 Con Salida](https://img.shields.io/badge/→%20Tomo%202%20Con%20Salida-FRANPEZESCO-green?style=flat-square)](https://github.com/FRANPEZESCO)
-[![INSELFO Proyectos](https://img.shields.io/badge/→%20INSELFO%20Proyectos-INSELFO--COM-blue?style=flat-square)](https://github.com/orgs/INSELFO-COM)
-
 </div>
+
