@@ -1,5 +1,3 @@
-## Hi there 👋
-##  **FRANPEZESCO/FRANPEZESCO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 ### 🧬 BIOTECNOLIFE — Dr. Ittalo Francisco Pezzotti Escobar
 
 
